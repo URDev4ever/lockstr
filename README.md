@@ -1,5 +1,8 @@
 <h1 align="center">🔐 lockstr</h1>
-
+<p align="center">
+  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇪🇸 <a href="README_ES.md">Español</a>
+</p>
 <h3 align="center">lockstr is a secure, minimal, command-line file encryption tool built on Fernet symmetric cryptography.
 It encrypts and decrypts files and directories in place, without ever exposing the encryption key on screen.</h3>
 
