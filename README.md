@@ -216,7 +216,8 @@ Atomic writes prevent file corruption.
 lockstr/
 ├── lockstr.py      # Main CLI application
 ├── installer.py    # System installer
-└── README.md
+├── README.md
+└── README_ES.md
 ```
 
 ---
