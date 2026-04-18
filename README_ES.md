@@ -1,7 +1,7 @@
 <h1 align="center">🔐 lockstr</h1>
 <p align="center">
   🇺🇸 <a href="README.md"><b>English</b></a> |
-  🇪🇸 <a href="README_ES.md">Español</a>
+  🇪🇸 <b>Español</b>
 </p>
 <h3 align="center">lockstr es una herramienta de cifrado de archivos por línea de comandos, segura y minimalista, construida sobre criptografía simétrica Fernet.
 Cifra y descifra archivos y directorios en el lugar, sin exponer nunca la clave de cifrado en pantalla.</h3>
